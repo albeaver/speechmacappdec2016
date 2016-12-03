@@ -7,6 +7,7 @@
 //
 
 import Cocoa
+// This is ViewController.swift, where we will put all of the code for the main storyboard
 
 class ViewController: NSViewController {
 
